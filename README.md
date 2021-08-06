@@ -2,7 +2,7 @@
 
 <h1 align="center">Magic Layout</h1>
 
-<h3 align="center">A Simple Layout Solution For Unity</h3>
+<h3 align="center">Simple And Powerfull Layout Customization for Unity</h3>
 
 <div align="center">
   <!-- License -->
@@ -26,18 +26,10 @@ _Magic Layout_ is a custom unity editor tool that gives you more flexibilty when
 
 ## Download  and Installation
 
-## Development
-Want to contribute? I am happy to hear that! Magic Layout is great but it can be greater.
-
+## Contribution
+Want to contribute? I am happy to hear that! Magic Layout is great but it can be greater. Please make sure to read the [Contributing Guide]() before making a pull request.
 Want to add some features to Magic Layout? Refer to open issues.
 
-### Quick Start
-
-1. Fork the repository.
-2. Clone your fork: `git clone git@github.com:<username>/unity-magic-layout.git`
-3. Create a feature branch: `git checkout -b feature`
-4. Make you changes and push your branch.
-5. Create a PR against `develop` and describe your changes.
 
 ## Contributors
 Thank you to all the people who have already contributed to Magic Layout [[contributors](https://github.com/r4hulCorleone/unity-magic-layout/graphs/contributors)]
