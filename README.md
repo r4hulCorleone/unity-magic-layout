@@ -27,7 +27,7 @@ Want to add some features to Magic Layout? Refer to open issues.
 5. Create a PR against `develop` and describe your changes.
 
 ## Contributors
-Thank you to all the people who have already contributed to Magic Layout [[contributors](https://github.com/marktext/marktext/graphs/contributors)]
+Thank you to all the people who have already contributed to Magic Layout [[contributors](https://github.com/r4hulCorleone/unity-magic-layout/graphs/contributors)]
 
 ## License
 
