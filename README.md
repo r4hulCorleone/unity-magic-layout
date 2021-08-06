@@ -1,3 +1,5 @@
+<p align="center"><img src="static/logo.png" width="200" height="200"></p>
+
 <h1 align="center">Magic Layout</h1>
 
 <h3 align="center">A Simple Layout Solution For Unity</h3>
