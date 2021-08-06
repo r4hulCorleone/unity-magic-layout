@@ -1,6 +1,6 @@
 <h1 align="center">Magic Layout</h1>
 
-<h2 align="center">Simple Solution To Unity Editor Layout</h2>
+<h3 align="center">A Simple Layout Solution For Unity</h3>
 
 <div align="center">
   <!-- License -->
@@ -26,6 +26,7 @@ _Magic Layout_ is a custom unity editor tool that gives you more flexibilty when
 
 ## Development
 Want to contribute? I am happy to hear that! Magic Layout is great but it can be greater.
+
 Want to add some features to Magic Layout? Refer to open issues.
 
 ### Quick Start
