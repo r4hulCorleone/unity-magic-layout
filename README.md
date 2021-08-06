@@ -36,4 +36,4 @@ Thank you to all the people who have already contributed to Magic Layout [[contr
 
 ## License
 
-MIT
+[MIT](https://github.com/r4hulCorleone/unity-magic-layout/blob/develop/LICENSE)
