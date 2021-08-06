@@ -11,7 +11,7 @@
   </a>
 
   <!-- Pull Requests -->
-  <a href="https://github.com/r4hulCorleone/unity-magic-layout/releases">
+  <a href="https://github.com/r4hulCorleone/unity-magic-layout/pulls">
     <img src="https://img.shields.io/github/issues-pr/r4hulCorleone/unity-magic-layout">
   </a>
   
