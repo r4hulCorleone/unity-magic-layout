@@ -9,11 +9,18 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/github/license/r4hulCorleone/unity-magic-layout.svg" alt="LICENSE">
   </a>
+
+  <!-- Pull Requests -->
+  <a href="https://github.com/r4hulCorleone/unity-magic-layout/releases">
+    <img src="https://img.shields.io/github/issues-pr/r4hulCorleone/unity-magic-layout">
+  </a>
   
   <!-- Downloads total -->
   <a href="https://github.com/r4hulCorleone/unity-magic-layout/releases">
     <img src="https://img.shields.io/github/downloads/r4hulCorleone/unity-magic-layout/total.svg" alt="total download">
   </a>
+
+   
 </div>
 
 ## What is Magic Layout?
