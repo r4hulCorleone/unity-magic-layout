@@ -1,4 +1,4 @@
-<p align="center"><img src="static/logo.png" width="100" height="100"></p>
+<p align="center"><img src="static/logo-no-back.png" width="100" height="100"></p>
 
 <h1 align="center">Magic Layout</h1>
 
