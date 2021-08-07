@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a bug & Help us to improve Magic Layout
+about: Help us to stable Magic Layout
 title: ''
 labels: ''
 assignees: ''
