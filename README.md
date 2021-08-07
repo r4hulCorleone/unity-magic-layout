@@ -10,10 +10,16 @@
     <img src="https://img.shields.io/github/license/r4hulCorleone/unity-magic-layout.svg" alt="LICENSE">
   </a>
 
+  <!-- Issues -->
+  <a href="https://github.com/r4hulCorleone/unity-magic-layout/issues">
+    <img src="https://img.shields.io/github/issues/r4hulCorleone/unity-magic-layout">
+  </a>
+  
   <!-- Pull Requests -->
   <a href="https://github.com/r4hulCorleone/unity-magic-layout/pulls">
     <img src="https://img.shields.io/github/issues-pr/r4hulCorleone/unity-magic-layout">
   </a>
+  
   
   <!-- Downloads total -->
   <a href="https://github.com/r4hulCorleone/unity-magic-layout/releases">
