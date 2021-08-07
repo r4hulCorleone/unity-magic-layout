@@ -19,7 +19,7 @@ Please make sure the following is done before submitting a PR:
 
 - Submit PRs directly to the `develop` branch.
 - Reference the related issue in the PR comment.
-- Please lint and test your PR before submitting.
+- Please test your PR before submitting.
 
 If you add new feature:
 
