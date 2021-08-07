@@ -4,14 +4,13 @@ I am really excited that you are interested in contributing to Magic Layout :hea
 
 - [Issue reporting guidelines](#issue-reporting-guidelines)
 - [Pull request guidelines](#pull-request-guidelines)
-- [Where should I start?](#where-should-i-start)
 - [Quick start](#quick-start)
 - [Style guide](#style-guide)
 
 
 ## Issue reporting guidelines
 
-Please search for similar issues before opening an issue and always follow the [issue template](.github/ISSUE_TEMPLATE.md). Please provide a detailed description of the problem in your PR and live demo or screenshots are preferred.
+Please search for similar issues before opening an issue and always follow the [issue templates](https://github.com/r4hulCorleone/unity-magic-layout/issues/new/choose). Please provide a detailed description of the problem in your PR and live demo or screenshots are preferred.
 
 ## Pull request guidelines
 
@@ -23,7 +22,7 @@ Please make sure the following is done before submitting a PR:
 
 If you add new feature:
 
-- Open a suggestion issue first.
+- Open a feature issue first.
 - Provide convincing reason to add this feature.
 - Then submit your PR.
 
