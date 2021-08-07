@@ -23,6 +23,23 @@
    
 </div>
 
+<div align="center">
+  <h3>
+    <a href="https://github.comr4hulCorleone/unity-magic-layout#features">
+      Features
+    </a>
+    <span> | </span>
+    <a href="https://github.com/r4hulCorleone/unity-magic-layout#download-and-installation">
+      Downloads
+    </a>
+    <span> | </span>
+    <a href="https://github.com/r4hulCorleone/unity-magic-layout#contribution">
+      Contribution
+    </a>
+  </h3>
+</div>
+
+
 ## What is Magic Layout?
 _Magic Layout_ is a custom unity editor tool that gives you more flexibilty when you are working with unity editor layout.
 
