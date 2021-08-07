@@ -36,7 +36,7 @@
     </a>
     <span> | </span>
     <a href="https://github.com/r4hulCorleone/unity-magic-layout#download-and-installation">
-      Downloads
+      Download
     </a>
     <span> | </span>
     <a href="https://github.com/r4hulCorleone/unity-magic-layout#contribution">
