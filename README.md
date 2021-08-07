@@ -57,7 +57,7 @@ _Magic Layout_ is a custom unity editor tool that gives you more flexibilty when
 ## Download  and Installation
 
 ## Contribution
-Want to contribute? I am happy to hear that! Magic Layout is great but it can be greater. Please make sure to read the [Contributing Guide]() before making a pull request.
+Want to contribute? I am happy to hear that! Magic Layout is great but it can be greater. Please make sure to read the [Contributing Guide](CONTRIBUTING.md) before making a pull request.
 
 
 Want to add some features to Magic Layout? Refer to open issues.
