@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+MagicLayout_Project/[Ll]ibrary/
+MagicLayout_Project/[Tt]emp/
+MagicLayout_Project/[Oo]bj/
+MagicLayout_Project/[Bb]uild/
+MagicLayout_Project/[Bb]uilds/
+MagicLayout_Project/[Ll]ogs/
+MagicLayout_Project/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -21,6 +21,9 @@
 
 # Visual Studio cache directory
 .vs/
+
+# Visual Studio Code cache directory
+.vscode/
 
 # Gradle cache directory
 .gradle/
