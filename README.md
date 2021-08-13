@@ -54,7 +54,7 @@ _Magic Layout_ is a custom unity editor tool that gives you more flexibility whe
 
 - Powerfull & Easy to use, just install.
 
-## Functionality
+## Examples
 <p align="center">
   <img src="Documentation/gifs/1.gif" width="426" height="240">
   <img src="Documentation/gifs/2.gif" width="426" height="240">
