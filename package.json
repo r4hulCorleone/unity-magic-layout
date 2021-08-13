@@ -2,10 +2,11 @@
   "name": "com.rahul-corleone.magic-layout",
   "version": "0.1.0-beta",
   "displayName": "Magic Layout",
-  "description": "Feel free to customize your editor layout as you want.",
+  "description": "Magic Layout is simple but powerfull editor tool to resize your unity editor windows as you liked. After installing, just start to setup your editor layout in your favorite way.",
   "unity": "2020.3",
   "unityRelease": "14f1",
   "documentationUrl": "https://github.com/r4hulCorleone/unity-magic-layout/blob/develop/README.md",
+  "changelogUrl": "https://github.com/r4hulCorleone/unity-magic-layout/blob/develop/CHANGELOG.md",
   "licensesUrl": "https://github.com/r4hulCorleone/unity-magic-layout/blob/develop/LICENSE.md",
   "dependencies": {
  },
