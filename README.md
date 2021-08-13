@@ -1,4 +1,4 @@
-<p align="center"><img src="Static/logo-transparent.png" width="100" height="100"></p>
+<p align="center"><img src="Documentation/images/logo-transparent.png" width="100" height="100"></p>
 
 <h1 align="center">Magic Layout</h1>
 
@@ -48,13 +48,17 @@
 
 ## What is Magic Layout?
 
-_Magic Layout_ is a custom unity editor tool that gives you more flexibilty when you are working with unity editor layout.
+_Magic Layout_ is a custom unity editor tool that gives you more flexibility when you are working with unity editor layout.
 
 ## Features
 
-- Easy to use, just import it to your unity project.
-- No hacky stuff.
-- It is free.
+- Powerfull & Easy to use, just install.
+
+## Functionality
+<p align="center">
+  <img src="Documentation/gifs/1.gif" width="426" height="240">
+  <img src="Documentation/gifs/2.gif" width="426" height="240">
+</p>
 
 ## Download  and Installation
 
