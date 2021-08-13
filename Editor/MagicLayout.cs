@@ -61,7 +61,10 @@ namespace R4hulCorleone
 
         private static void OnViewChanged(Object hostView)
         {
-            EditorApplication.delayCall += MakeAvailableWindowsResizable;
+            EditorApplication.delayCall += () =>
+            {
+                EditorApplication.delayCall += MakeAvailableWindowsResizable;
+            };
         }
     }
 }
