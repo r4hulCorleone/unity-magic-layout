@@ -57,7 +57,7 @@ _Magic Layout_ is a custom unity editor tool that gives you more flexibility whe
 
 ## Features
 
-- Powerfull & Easy to use, Just install.
+- Powerfull & Easy to Use, Just install.
 <!-- - No dependency. -->
 
 ## Examples
@@ -108,6 +108,7 @@ To add *Magic Layout* to your project, In unity editor:
   <img src="Documentation~/images/install/selecting-git-url.png" width="800" height="570">
 </p>
 </details>
+
 
 ## Contribution
 
