@@ -1,4 +1,4 @@
-<p align="center"><img src="Documentation/images/logo-transparent.png" width="100" height="100"></p>
+<p align="center"><img src="Documentation~/images/logo-transparent.png" width="100" height="100"></p>
 
 <h1 align="center">Magic Layout</h1>
 
@@ -61,8 +61,8 @@ _Magic Layout_ is a custom unity editor tool that gives you more flexibility whe
 
 ## Examples
 <p align="center">
-  <img src="Documentation/gifs/1.gif" width="426" height="240">
-  <img src="Documentation/gifs/2.gif" width="426" height="240">
+  <img src="Documentation~/gifs/1.gif" width="426" height="240">
+  <img src="Documentation~/gifs/2.gif" width="426" height="240">
 </p>
 
 ## Download  and Installation
@@ -83,6 +83,12 @@ Scope: com.rahul-corleone
 - open Package Manager
 - select ``My Registries`` in dropdown top left
 - select ``Magic Layout`` and click ``Install``
+
+<p align="center">
+  <img src="Documentation~/images/install/adding-scope.png" width="801" height="576">
+  <img src="Documentation~/images/install/selecting-my-registry.png" width="801" height="576">
+</p>
+  
 </details>
 
 <details>
@@ -96,6 +102,10 @@ To add *Magic Layout* to your project, In unity editor:
 - select <kbd>Add from Git URL</kbd>
 - paste `https://github.com/r4hulCorleone/unity-magic-layout.git`
 - click <kbd>Add</kbd>
+  
+  <p align="center">
+  <img src="Documentation~/images/install/selecting-git-url.png" width="800" height="570">
+</p>
 </details>
 
 ## Contribution
