@@ -22,12 +22,17 @@
     <img src="https://img.shields.io/github/issues-pr/r4hulCorleone/unity-magic-layout">
   </a>
 
-<!-- Downloads total -->
-
-<a href="https://github.com/r4hulCorleone/unity-magic-layout/releases">
-    <img src="https://img.shields.io/github/downloads/r4hulCorleone/unity-magic-layout/total.svg" alt="total download">
+<!-- Open UPM -->
+  <a href="https://openupm.com/packages/com.rahul-corleone.magic-layout/">
+    <img src="https://img.shields.io/npm/v/com.rahul-corleone.magic-layout?label=openupm&amp;registry_uri=https://package.openupm.com" />
   </a>
+  
+<!-- Downloads total -->
+<!-- <a href="https://github.com/r4hulCorleone/unity-magic-layout/releases">
+    <img src="https://img.shields.io/github/downloads/r4hulCorleone/unity-magic-layout/total.svg" alt="total download">
+  </a> -->
 
+  
 </div>
 
 <div align="center">
@@ -52,7 +57,7 @@ _Magic Layout_ is a custom unity editor tool that gives you more flexibility whe
 
 ## Features
 
-- Powerfull & Easy to use, just install.
+- Powerfull & Easy to use.
 
 ## Examples
 <p align="center">
@@ -61,6 +66,37 @@ _Magic Layout_ is a custom unity editor tool that gives you more flexibility whe
 </p>
 
 ## Download  and Installation
+<details>
+  <summary>✅ Using OpenUPM (<b>Recommended</b>)</summary> 
+By using scoped registry, you will access to future updates and bug fixes through Package Manager.
+
+To add *Magic Layout* to your project, In unity editor:
+
+- open `Edit/Project Settings/Package Manager`
+- add a new Scoped Registry:
+```
+Name:  OpenUPM
+URL:   https://package.openupm.com/
+Scope: com.rahul-corleone
+```
+- click <kbd>Save</kbd>
+- open Package Manager
+- select ``My Registries`` in dropdown top left
+- select ``Magic Layout`` and click ``Install``
+</details>
+
+<details>
+<summary>🟨 Using GitHub URL</summary>
+
+Note that you won't be able to receive updates through Package Manager this way, you'll have to update manually.
+
+To add *Magic Layout* to your project, In unity editor:
+- open Window > Package Manager
+- click <kbd>+</kbd>
+- select <kbd>Add from Git URL</kbd>
+- paste `https://github.com/r4hulCorleone/unity-magic-layout.git`
+- click <kbd>Add</kbd>
+</details>
 
 ## Contribution
 
