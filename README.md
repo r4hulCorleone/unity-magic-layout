@@ -37,7 +37,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.comr4hulCorleone/unity-magic-layout#features">
+    <a href="https://github.com/r4hulCorleone/unity-magic-layout#features">
       Features
     </a>
     <span> | </span>
