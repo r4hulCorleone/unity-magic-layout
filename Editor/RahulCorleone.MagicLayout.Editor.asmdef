@@ -1,7 +1,9 @@
 {
-    "name": "R4hulCorleone.MagicLayout.Editor",
+    "name": "RahulCorleone.MagicLayout.Editor",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "Unity.EditorCoroutines.Editor"
+    ],
     "includePlatforms": [
         "Editor"
     ],
