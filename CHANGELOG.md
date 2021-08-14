@@ -2,6 +2,11 @@
 
 ### [0.2.0-beta] - 2021-08-15
 
+
+- Features:
+
+  - Adds _Magic Layout_ menu under "Window/Magic Layout"
+  
 - Changes:
   
   - Adds editor coroutines package as dependency.
