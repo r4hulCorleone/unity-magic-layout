@@ -57,7 +57,7 @@ _Magic Layout_ is a custom unity editor tool that gives you more flexibility whe
 
 ## Features
 
-- Powerfull & Easy to use.
+- Powerfull & easy to use, just install.
 
 ## Examples
 <p align="center">
@@ -65,7 +65,7 @@ _Magic Layout_ is a custom unity editor tool that gives you more flexibility whe
   <img src="Documentation~/gifs/2.gif" width="426" height="240">
 </p>
 
-## Download  and Installation
+## Download and Installation
 <details>
   <summary>✅ Using OpenUPM (<b>Recommended</b>)</summary> 
 By using scoped registry, you will access to future updates and bug fixes through Package Manager.
