@@ -46,4 +46,4 @@ Other ways to help:
 
 
 ### Style guide
-The project comes with Roslyn analyzer to help you follow the style guide. Please be sure your PRs have no warning or errors inside unity editor before submitting.
+Please follow [Microsoft C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions).
