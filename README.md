@@ -66,6 +66,9 @@ _Magic Layout_ is a custom unity editor tool that gives you more flexibility whe
   <img src="Documentation~/gifs/2.gif" width="426" height="240">
 </p>
 
+## Known Issues
+- This package is __not__ recommended for linux users due to unity editor problems on linux, see also [#5](/../../issues/5).
+
 ## Download and Installation
 <details>
   <summary>✅ Using OpenUPM (<b>Recommended</b>)</summary> 
